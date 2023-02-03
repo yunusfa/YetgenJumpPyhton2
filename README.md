@@ -1,2 +1,3 @@
 # YetgenJumpPyhton2
-Bu repoyu yeni Jump içerikleri için oluşturduk
+
+Bu repo Jump phyton için açılmıştır.
